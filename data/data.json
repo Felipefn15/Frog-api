@@ -1,0 +1,648 @@
+{
+    "products":[
+        {
+            "name": "Panqueca de carne moída",
+            "quantity": "100",
+            "protein": "52",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Ovo",
+            "quantity": "100",
+            "protein": "52",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Kibe de Forno",
+            "quantity": "100",
+            "protein": "52",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Hambúrguer caseiro",
+            "quantity": "100",
+            "protein": "52",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Salmão",
+            "quantity": "100",
+            "protein": "52",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Whey Protein",
+            "quantity": "100",
+            "protein": "51",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Queijo prato",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "12"
+        },
+        {
+            "name": "Queijo provolone ",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "30"
+        },
+        {
+            "name": "Queijo parmesão",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "51"
+        },
+        {
+            "name": "Queijo tipo polenguinho",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "51"
+        },
+        {
+            "name": "Margarina",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "51"
+        },
+        {
+            "name": "manteiga",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "51"
+        },
+        {
+            "name": "Arroz branco",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "30",
+            "fat": "5"
+        },
+        {
+            "name": "Purê de batata",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Farofa simples",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Batata doce",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Milho cozido",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Milho em conserva",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Quinua",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Amaranto",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Trigo",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Tabule",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Pão de forma integral",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Pão de hambúrguer integral 1 unidade",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "granola",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "chia",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Bolo simples",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Barra de cereais",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Tapioca",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Pipoca salgada",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Leite",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "51"
+        },
+        {
+            "name": "iogurte desnatado",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "52"
+        },
+        {
+            "name": "Leite em pó desnatado",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "53"
+        },
+        {
+            "name": "Leite de soja",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "51"
+        },
+        {
+            "name": "iogurte integral",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "51"
+        },
+        {
+            "name": "Coalhada",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "51"
+        },
+        {
+            "name": "Queijo minas frescal",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "51"
+        },
+        {
+            "name": "Ricota",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "52"
+        },
+        {
+            "name": "Queijo minas curado",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "50"
+        },
+        {
+            "name": "Requeijão",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "34"
+        },
+        {
+            "name": "Requeijão light",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "34"
+        },
+        {
+            "name": "Queijo cottage",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "32"
+        },
+        {
+            "name": "Cream cheese",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "51"
+        },
+        {
+            "name": "Cream cheese light",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "32"
+        },
+        {
+            "name": "Pasta de soja",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "50"
+        },
+        {
+            "name": "Requeijão light 1 colher de sopa",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "51"
+        },
+        {
+            "name": "Creme de ricota",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "51"
+        },
+        {
+            "name": "chester",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "51"
+        },
+        {
+            "name": "peru",
+            "quantity": "100",
+            "protein": "11",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Pasta de amendoim integral",
+            "quantity": "100",
+            "protein": "3",
+            "carbohydrates": "2",
+            "fat": "53"
+        },
+        {
+            "name": "Óleo",
+            "quantity": "100",
+            "protein": "4",
+            "carbohydrates": "2",
+            "fat": "53"
+        },
+        {
+            "name": "Azeite",
+            "quantity": "100",
+            "protein": "4",
+            "carbohydrates": "2",
+            "fat": "54"
+        },
+        {
+            "name": "Oleo de coco",
+            "quantity": "100",
+            "protein": "3",
+            "carbohydrates": "2",
+            "fat": "54"
+        },
+        {
+            "name": "Bife grelhado",
+            "quantity": "100",
+            "protein": "52",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "filé de frango grelhado",
+            "quantity": "100",
+            "protein": "51",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Frango assado",
+            "quantity": "100",
+            "protein": "51",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Almôndegas",
+            "quantity": "100",
+            "protein": "52",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Bife rolé",
+            "quantity": "100",
+            "protein": "53",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Picadinho",
+            "quantity": "100",
+            "protein": "53",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Carne ensopada",
+            "quantity": "100",
+            "protein": "51",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Língua bovina",
+            "quantity": "100",
+            "protein": "52",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Dobradinha",
+            "quantity": "100",
+            "protein": "53",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Coração",
+            "quantity": "100",
+            "protein": "53",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Macarrão cozido",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Batata inglesa cozida",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Cará, Inhame ou mandioquinha",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Aipim",
+            "quantity": "100",
+            "protein": "51",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Atum enlatado",
+            "quantity": "100",
+            "protein": "51",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Sardinha enlatada",
+            "quantity": "100",
+            "protein": "51",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Bacalhau",
+            "quantity": "100",
+            "protein": "51",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Polvo",
+            "quantity": "100",
+            "protein": "52",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Carne moída",
+            "quantity": "100",
+            "protein": "51",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Carne assada",
+            "quantity": "100",
+            "protein": "53",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Bife de fígado",
+            "quantity": "100",
+            "protein": "51",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Proteína de soja",
+            "quantity": "100",
+            "protein": "52",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Tofu",
+            "quantity": "100",
+            "protein": "51",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Coxa ou sobre-coxa de frango",
+            "quantity": "100",
+            "protein": "52",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Carne de porco magra grelhada",
+            "quantity": "100",
+            "protein": "52",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Carne seca",
+            "quantity": "100",
+            "protein": "51",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Camarão cozido",
+            "quantity": "100",
+            "protein": "51",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Peixe assado",
+            "quantity": "100",
+            "protein": "51",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Pão Árabe integral",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Pão francês (integral)",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Pão italiano",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Bisnaguinha",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Bolacha água e sal ",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Biscoito doce sem recheio",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Nesfit",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Bolacha de arroz integral",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Aveia",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        },
+        {
+            "name": "Sardinha fresca",
+            "quantity": "100",
+            "protein": "53",
+            "carbohydrates": "2",
+            "fat": "5"
+        },
+        {
+            "name": "Arroz integral",
+            "quantity": "100",
+            "protein": "5",
+            "carbohydrates": "22",
+            "fat": "5"
+        }
+    ]
+}
